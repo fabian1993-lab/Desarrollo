@@ -1,0 +1,5 @@
+arreglos
+Scanner leer = new Scanner(System.in);
+        int [] numeros;
+        numeros = new int[4];
+        
